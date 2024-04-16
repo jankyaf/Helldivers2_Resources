@@ -1,5 +1,5 @@
 # Armor & Booster Effects on Speed & Stamina *(4/16/2024)*
-The following summarizes the effects of armor & booster combinations on travel speed and stamina, and assumes a flat surface with no obstructions.  Credit for the data mined goes to [Ferit The Bandit](https://www.youtube.com/@FeritTheBandit), the full video can be seen here: https://www.youtube.com/watch?v=1UpAYL79ifQ. I just consolidated and presented the data in a much more digestible way.
+The following summarizes the effects of armor & booster combinations on travel speed and stamina, and assumes a flat surface with no obstructions.  Credit for the data mined goes to [Ferit The Bandit](https://www.youtube.com/@FeritTheBandit), the full video can be seen here: https://www.youtube.com/watch?v=1UpAYL79ifQ. There's a lot more insight in the video regarding these statistics, I strongly reccommend watching it first and then using this as a reference.
 
 ##  Raw Values
 ### Walk Speed
