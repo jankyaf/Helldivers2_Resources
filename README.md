@@ -1,5 +1,5 @@
 # Helldivers2_Resources
-Collection of information about the game.  Most of the data has been datamined by others, credit & sources are attributed wherever applicable.
+Collection of information about the game.  Most of the data has been datamined by others, credit & sources are attributed wherever applicable.  Click the resource you want to see in the table of contents to be brought directly to the relevant page.
 
 ## Table of Contents
 
